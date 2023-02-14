@@ -18,7 +18,7 @@
     "sass": "^1.26.10",
     "sass-loader": "^10.0.1",
     "secure-ls": "^1.2.6",
-    "sweetalert2": "^9.17.2",
+    "sweetalert2": "^11.7.1",
     "uuid": "^8.3.0",
     "vue": "^2.6.11",
     "vue-affix": "^0.5.2",
