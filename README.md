@@ -1,13 +1,6 @@
-# tripday🦉 
+# KKDAY-CLONE🦉 
 <br>
-<br>
-
-A front-end project to clone Taiwan travel website
-
-
-<br>
-
-
+A front-end project to help users to plan their trip.
 <br>
 
 ## Demo browse
@@ -29,10 +22,15 @@ HELLO2WORLD
 <br>
 
 ## User Stories
+- [x] User can browse the website without login
+- [x] User can login or register
+- [x] User can search for products
+- [x] User can add products to cart
+- [x] User can check out
+- [x] User can check order history
+- [x] User can check order detail
+- [x] User can check order status
 
-#### 一般使用者
-
-- 
 
  
  **in progress**
