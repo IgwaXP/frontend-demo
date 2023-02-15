@@ -1,4 +1,4 @@
-# KKDAY-CLONE🦉 
+# KKDAY-CLONE
 <br>
 A front-end project to help users to plan their trip.
 <br>
