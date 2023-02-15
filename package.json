@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "json:server": "json-server --watch db.json"
+    "json:server": "json-server --watch db.json",
+    "deploy": "node scripts/gh-pages-deploy.js"
   },
   "dependencies": {
     "@vue/runtime-dom": "^3.2.47",
