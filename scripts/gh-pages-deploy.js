@@ -24,4 +24,3 @@ const fs = require("fs");
     process.exit(1);
   }
 })();
-view raw
